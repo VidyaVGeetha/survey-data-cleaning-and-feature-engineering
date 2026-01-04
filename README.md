@@ -86,24 +86,7 @@ Aspiring Data Analyst — United Kingdom (Scotland)
 
 ---
 
-## 💼 Project Use
 
-This project is suitable for:
-
-- Portfolio showcase
-- Data-analyst job applications
-- Interview discussion examples
-- Learning & academic projects
-
----
-
-## 📌 Future Improvements (Optional)
-
-- Build dashboard (Power BI / Tableau)
-- Add hypothesis-based analysis
-- Train predictive model using engineered features
-
----
 
 ## 🏁 Conclusion
 
